@@ -1,0 +1,12 @@
+rvlogger is my re-implimentation of vlogger in Ruby
+
+I was tired of vlogger crashing when directories didn't exist
+and I really wasn't in the mood to learn Perl so I just
+re-wrote the entire thing (at least the pieces I needed)
+in Ruby and rescued some exceptions, and tada, problem solved.
+
+Vlogger:
+http://n0rp.chemlab.org/vlogger/
+
+RVlogger:
+http://github.com/yyyc514/rvlogger/tree/master
